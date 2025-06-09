@@ -1,0 +1,16 @@
+{
+  "name": "test-static-site",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "description": "test site built with elleventy and cross gov plugin",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1",
+    "@x-govuk/govuk-eleventy-plugin": "^7.0.1"
+  }
+}
