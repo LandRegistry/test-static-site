@@ -10,7 +10,7 @@ export default function(eleventyConfig) {
     markdownTemplateEngine: 'njk',
     dir: {
       // The folder where all your content will live:
-      input: 'app',
+      input: 'docs',
     }
   }
 };
