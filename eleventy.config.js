@@ -8,10 +8,10 @@ export default function(eleventyConfig) {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
-    pathPrefix: "/test-static-site/"
+    pathPrefix: "/test-static-site/",
     dir: {
       // The folder where all your content will live:
-      input: 'docs',
+      input: 'app',
       output: "_site"
     }
   }
