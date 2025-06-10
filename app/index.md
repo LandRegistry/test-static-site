@@ -5,4 +5,4 @@ title: My first page
 ---
 This is my first page, built using Eleventy and `@x-govuk/govuk-eleventy-plugin`.
 
-[my second page](/page1)
+[my second page](hello)
